@@ -1,0 +1,4 @@
+include LICENSE
+include README.rst
+recursive-include fast_auth/static *
+recursive-include fast_auth/templates *
